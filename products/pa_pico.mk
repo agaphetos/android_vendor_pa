@@ -1,0 +1,1 @@
+$(call inherit-product, device/htc/pico/pico.mk)
